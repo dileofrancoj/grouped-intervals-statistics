@@ -4,7 +4,7 @@ Esta herramienta te permite resolver problemas de estadísitica de intervalos ag
 
 ![image](https://user-images.githubusercontent.com/27651332/207667591-727ba39a-7351-4ae0-8bf9-db5cf501742b.png)
 
-### Pendientes
+### Pendientes
 
 - Frecuencia relativa porcentual (hi)
 - Gráfico del histograma con Matplotlib
