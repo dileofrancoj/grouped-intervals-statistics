@@ -4,6 +4,10 @@ Esta herramienta te permite resolver problemas de estadísitica de intervalos ag
 
 ![image](https://user-images.githubusercontent.com/27651332/207667591-727ba39a-7351-4ae0-8bf9-db5cf501742b.png)
 
+## Importante
+
+La forma de escribir el intervalo es "A;B". Es importante que se respete tanto el formato como su delimitador ";" para que funcione el programa.
+
 ### Pendientes
 
 - Frecuencia relativa porcentual (hi)
